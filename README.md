@@ -21,6 +21,11 @@ By using **MetaMask** and some **kovan chain faucets**, one can **interact** wit
 
 - [react-toastify](https://www.npmjs.com/package/react-toastify) npm package is used here to **show notifications** in the **Web UI**.
 
+<br></br>
+![App Screenshot](https://raw.githubusercontent.com/Tanay-ErrorCode/Quote-Application/main/my-app/src/assets/screenshot.png)
+
+<br></br>
+
 **Here's the guide to run this application :**
 - Setup
     - Add **MetaMask** extension for your **web browser**.
