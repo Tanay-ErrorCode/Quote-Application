@@ -42,6 +42,7 @@ By using **MetaMask** and some **kovan chain faucets**, one can **interact** wit
     - Install [**NodeJs**](https://nodejs.org/en/) and [**npm**](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 - Running application
+    - To go inside the React project execute the command `cd my-app`
     - Execute the command `npm install --force`
     - Now execute the command `npm start`
 - Application usage
